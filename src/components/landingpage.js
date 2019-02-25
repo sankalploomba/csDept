@@ -57,7 +57,7 @@ class LandingPage extends Component {
         </div>
 
         <div id='#footer' className="footer">
-          <p>Made with <i className="fas fa-heart" style = {{color: "#dd1b3b"}}></i> by <a href="https://github.com/aditya2000" target="_blank">Aditya Dehal</a> and <a href="https://github.com/dbhagesh" target="_blank">Bhagesh Dhankher</a></p>
+          <p>Made with <i className="fas fa-heart" style = {{color: "#dd1b3b"}}></i> by <a href="https://github.com/aditya2000" target="_blank">Aditya Dehal</a>, <a href="https://github.com/dbhagesh" target="_blank">Bhagesh Dhankher</a> and <a href="https://github.com/sankalploomba" target="_blank">Sankalp Loomba</a></p>
           <p>&copy; 2019 Curieux. All rights reserved.</p>
         </div>
       </div>
